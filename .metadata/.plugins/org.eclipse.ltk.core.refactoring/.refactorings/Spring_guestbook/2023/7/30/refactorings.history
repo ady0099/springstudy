@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.ict.db.GuestDAO&apos; to &apos;DAO&apos;&#x0D;&#x0A;- Original project: &apos;Spring_guestbook&apos;&#x0D;&#x0A;- Original element: &apos;com.ict.db.GuestDAO&apos;&#x0D;&#x0A;- Renamed element: &apos;com.ict.db.DAO&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;GuestDAO&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.ict.db{GuestDAO.java[GuestDAO" matchStrategy="1" name="DAO" qualified="false" references="true" similarDeclarations="false" stamp="1690345100806" textual="false" version="1.0"/>
+</session>

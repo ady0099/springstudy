@@ -1,0 +1,9 @@
+package ex03_DI;
+
+import org.springframework.context.ApplicationContext;
+
+public class TestMain_DI {
+	public static void main(String[] args) {
+		ApplicationContext 
+	}
+}

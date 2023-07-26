@@ -1,0 +1,36 @@
+<%@page import="ex09_db.DAO"%>
+<%@page import="org.springframework.web.context.support.WebApplicationContextUtils"%>
+<%@page import="org.springframework.web.context.WebApplicationContext"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+    <%
+    WebApplicationContext context = 
+    	WebApplicationContextUtils.getWebApplicationContext(application);
+    	DAO dao = (DAO)context.getBean("dao");
+    	List<VO> list = dao.getList();
+    	pageContext.setAttribute("list", list);
+    %>
+    
+    
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h2>회원 정보</h2>
+	<table>
+		<thead>
+			<tr>
+				<th>번호</th><th>아이디</th><th>패스워드</th><th>이름</th><th>나이</th><th>등록일</th>
+			</tr>
+		</thead>
+		<tbody>
+			<c:choose>
+			
+			</c:choose>
+		</tbody>
+	</table>
+</body>
+</html>

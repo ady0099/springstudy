@@ -1,0 +1,8 @@
+package ex02_DI;
+
+public class TextMain {
+	public static void main(String[] args) {
+		// Spring Container에서 객체(Bean)를 생성하고 관리한다
+		// Container가 객체를 생성하고 관리할 수 있도록
+	}
+}

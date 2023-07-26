@@ -1,0 +1,9 @@
+package ex07_Web_DI;
+
+public class MyCalc {
+	private int result;
+	public int plus(int s1, int s2) {
+		return s1+s2;
+	}
+	
+}

@@ -1,0 +1,5 @@
+package ex09_db;
+
+public class VOff {
+	private String m_idx, m_id, m_pw, m_name, m_age, m_reg;
+}

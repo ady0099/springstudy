@@ -1,0 +1,7 @@
+package ex09_db;
+
+import org.mybatis.spring.SqlSessionTemplate;
+
+public class DAO {
+	private SqlSessionTemplate sessionTemplate;
+}

@@ -1,0 +1,11 @@
+package ex04_DI;
+
+import javax.management.loading.PrivateClassLoader;
+
+public class MyProcess {
+	private String name;
+	private String jumin;
+	private String gender;
+	private Age age;
+
+}

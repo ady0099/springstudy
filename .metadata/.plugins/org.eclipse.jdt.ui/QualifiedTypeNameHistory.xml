@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="ex01_nonDI.OracleDAO"/>
+    <fullyQualifiedTypeName name="ex01_nonDI.TestMain"/>
+    <fullyQualifiedTypeName name="ex01_nonDI.Service"/>
+    <fullyQualifiedTypeName name="ex01_nonDI.MySQLDAO"/>
+    <fullyQualifiedTypeName name="ex03_DI.TestMain_nonDI"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.GenericXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="ex03_DI.MyProcess"/>
+    <fullyQualifiedTypeName name="javax.management.loading.PrivateClassLoader"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="ex04_DI.MyProcess"/>
+    <fullyQualifiedTypeName name="javax.inject.Inject"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.mybatis.spring.SqlSessionTemplate"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+</qualifiedTypeNameHistroy>

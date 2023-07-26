@@ -1,0 +1,5 @@
+package ex09_db;
+
+public interface VO {
+	public void prn();
+}

@@ -1,0 +1,6 @@
+package ex07_Web_DI;
+
+public class MyCalc {
+	private int result;
+	
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans.xsd">
+	
+	<!-- 스프링 컨테이너에서 정보를 주는 설정 정보 -->
+	<!-- 오라클 연결 -->
+	<bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+		<property name=""></property>
+	</bean>
+		
+</beans>
